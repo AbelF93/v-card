@@ -6,7 +6,7 @@ In this project, we will explore the use of CSS properties like Grid and Flexbox
 
 A V-Card, short for Virtual Business Card, is an online representation of your personal or professional information. It serves as a digital introduction, showcasing your identity, skills, and contact details.
 
-![Real Card](https://unsplash.com/photos/kmz39UAtKZ0)
+![Real Card]([https://unsplash.com/photos/kmz39UAtKZ0](https://images.unsplash.com/photo-1507183711269-1235bed98f14?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80))
 
 
 ## The Journey Begins
